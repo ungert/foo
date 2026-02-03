@@ -1,2 +1,2 @@
 # foo
-this is my sample project
+this is my sample project. I am exited about this project.
